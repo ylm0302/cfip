@@ -1,10 +1,5 @@
 158.178.238.239#SG
 162.159.152.66#US - San Jose
 140.238.158.238#CA - Toronto
-proxy.xxxxxxxx.tk
-edgetunnel.anycast.eu.org
-ts.hpc.tw
-cdn.xn--b6gac.eu.org
-cdn-all.xn--b6gac.eu.org
-bestproxy.onecf.eu.org
-
+103.137.63.3
+178.73.220.132
